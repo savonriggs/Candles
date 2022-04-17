@@ -1,2 +1,0 @@
-# Candles
-Ecommerce candles webapp
